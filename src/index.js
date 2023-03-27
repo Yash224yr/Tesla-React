@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+// import Quiz from './Quiz/Quiz';
+// import Home from './MobCompare/Home';
 // import Routing from './ContextApi/Routing';
 // import Movies from './MoviesWeb/Movies';
 // import Routing from './Routing/routing';
@@ -24,6 +26,8 @@ root.render(
    // <Routing/>
    // <Movies/>
    // <Routing/>
+   // <Home/>
+   // <Quiz/>
 );
 
 
